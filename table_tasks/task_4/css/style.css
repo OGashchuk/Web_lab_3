@@ -1,0 +1,94 @@
+table.t1, table.t2, table.t3{
+  width: 187px;
+  height: 320px;
+  font-family: sans-serif;
+  font-size: 11px;
+  float: left;
+  margin-right: 20px; 
+}
+
+table.t1{
+  border-left:   2px solid #12947a;
+  border-right: 2px solid #12947a;
+  border-bottom: 8px solid #12947a;
+}
+table.t2{
+  
+  border-left:   2px solid #cf8105;
+  border-right: 2px solid #cf8105;
+  border-bottom: 8px solid #cf8105;
+}
+table.t3{
+  border-left:   2px solid #a22d24;
+  border-right: 2px solid #a22d24;
+  border-bottom: 8px solid #a22d24;
+}
+
+p{
+  margin-bottom: 15px;
+}
+th{
+  padding-top: 15px;
+}
+
+
+th.b, th.b2, th.b3{
+    padding-top: 15px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+th.b{
+    background: #16a086;
+    border-bottom: 8px solid #17937b;
+}
+th.b2{
+    border-bottom: 8px solid #cf8105;
+    background: #f39c11;
+}
+th.b3{
+    border-bottom: 8px solid #a22d24;
+    background: #c1392b;
+}
+
+
+th.c{
+    background: #fff;
+    border-top: 2px dotted #999;
+}
+
+
+th.d{
+    padding-bottom: 15px;
+}
+
+button.btn_1, button.btn_2, button.btn_3{
+  width: 92px;
+  height: 40px;
+  border: 0px; 
+  color: white;
+  margin-bottom: 15px; 
+} 
+
+button.btn_1{ 
+  background: #12947a;
+}
+
+button.btn_2{
+  background: #f39c11;
+}
+button.btn_3{
+  background: #c1392d;
+}
+
+
+span{
+  font-weight: normal;
+  color: gray;
+}
+
+
+
+
+

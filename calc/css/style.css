@@ -1,0 +1,73 @@
+.full{
+	width: 260px;
+	min-height: 395px;
+	border: 3px solid #6e9c9f;
+	border-radius: 10px;
+	margin: 0 auto;
+}
+p {
+	padding-top: 8px;
+	padding-right: 10px;
+	font-family: tahoma;
+	margin: 0 auto;
+}
+.header{
+	height: 35px;
+	width: 260px;
+	background: #6e9c9f;
+	margin-top: 10px;
+	color: #fff;
+	text-align: right;
+	margin-bottom: 10px; 
+}
+.input_bar{
+	height: 30px;
+	width: 245px;
+	border: 3px solid #6e9c9f;
+	border-radius: 10px;
+	margin: 5px;
+	margin-top: 0px; 
+	color: #6e9c9f;
+	font-family: tahoma;
+	font-size: 22px;
+	text-align: right;
+}
+.block_1{
+	width: 85px;
+	height: 30px;
+	float: right;
+	background: #6e9c9f;
+	margin: 5px;
+	margin-right: 10px;
+}
+.buttons{
+	width: 255px;
+	height: 250px;
+	float: right;
+}
+
+.btn {
+	width: 50px;
+	height: 50px;
+  	border-radius: 12px;
+	font-family: Arial;
+	color: #6e9c9f;
+	font-size: 20px;
+	background: #fff;
+	margin: 6px;
+	border: solid #6e9c9f 3px;
+	text-decoration: none;
+	float: left;
+}
+
+.btn:hover {
+  	background: #6e9c9f;
+  	border: solid #6e9c9f 3px;
+  	color: #fff;
+}
+
+.btn:active{
+	background: #7fc2c6;
+	color: #fff;
+  	border: solid #7fc2c6 3px;
+}
